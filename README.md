@@ -6,4 +6,4 @@ A new modern styled card gallery consisting of popular car brands, made by using
 
 ---
 
-### See the website [here](https://tsimurkurchyshyn.github.io/Coolors-Project/).
+### See the website [here](https://tsimurkurchyshyn.github.io/Card-Gallery-Project/).
